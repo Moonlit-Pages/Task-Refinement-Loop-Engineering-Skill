@@ -1,4 +1,4 @@
-# OpenClaw Task Refinement Loop Engineering Skill
+# OpenClaw & Hermes Agent Task Refinement Loop Engineering Skill
 
 ![Loop Engineering Workflow](assets/loop-engineering-workflow.png)
 
