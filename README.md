@@ -307,3 +307,15 @@ Use the license that fits your OpenClaw project. If this is an internal business
 ## Maintainer Notes
 
 This skill is especially useful as a default intake layer for complex OpenClaw tasks. It can be paired with specialized downstream skills such as research, document audit, code review, sales automation, or multi-agent orchestration.
+
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Moonlit-Pages%2Ftask-refinement-loop-engineering&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/task-refinement-loop-engineering&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/task-refinement-loop-engineering&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Moonlit-Pages/task-refinement-loop-engineering&type=date&legend=top-left" />
+ </picture>
+</a>
